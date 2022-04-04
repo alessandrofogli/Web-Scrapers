@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @alessandrofogli
 - 👀 I’m interested in AI, Finance and Blockchain
 - 👨🏻‍🎓 MSc Student in Systems Engineering for Financial Technology
+- 👨🏻‍💻 Python 🐍 
